@@ -8,4 +8,8 @@ public class Program {
     public static void Hello() {
 	    System.out.println ("Hi! Hello!");
     }
+
+    public int Addition(int a, int b) {
+	    return (a+b)
+    }
 }
